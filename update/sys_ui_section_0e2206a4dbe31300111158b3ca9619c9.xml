@@ -5,13 +5,13 @@
             <element>opened_at</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-23 20:50:23</sys_created_on>
-            <sys_id>8e2206a4dbe31300111158b3ca9619f0</sys_id>
+            <sys_created_on>2018-07-23 21:01:24</sys_created_on>
+            <sys_id>67a4cae4dbe31300111158b3ca9619de</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Statistics" display_value="Statistics" name="x_58872_needit_needit" sys_domain="global" view="Default view">0e2206a4dbe31300111158b3ca9619c9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-23 20:50:23</sys_updated_on>
+            <sys_updated_on>2018-07-23 21:01:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>sys_updated_on</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-23 20:50:23</sys_created_on>
-            <sys_id>022206a4dbe31300111158b3ca9619f1</sys_id>
+            <sys_created_on>2018-07-23 21:01:24</sys_created_on>
+            <sys_id>e7a4cae4dbe31300111158b3ca9619de</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Statistics" display_value="Statistics" name="x_58872_needit_needit" sys_domain="global" view="Default view">0e2206a4dbe31300111158b3ca9619c9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-23 20:50:23</sys_updated_on>
+            <sys_updated_on>2018-07-23 21:01:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,83 +33,97 @@
             <element>sys_created_on</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-23 20:50:23</sys_created_on>
-            <sys_id>822206a4dbe31300111158b3ca9619f1</sys_id>
+            <sys_created_on>2018-07-23 21:01:24</sys_created_on>
+            <sys_id>6ba4cae4dbe31300111158b3ca9619de</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Statistics" display_value="Statistics" name="x_58872_needit_needit" sys_domain="global" view="Default view">0e2206a4dbe31300111158b3ca9619c9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-23 20:50:23</sys_updated_on>
+            <sys_updated_on>2018-07-23 21:01:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>delivery_plan</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-23 21:01:24</sys_created_on>
+            <sys_id>eba4cae4dbe31300111158b3ca9619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_58872_needit_needit" sys_domain="global" view="Default view">0e2206a4dbe31300111158b3ca9619c9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-23 21:01:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-23 20:50:23</sys_created_on>
-            <sys_id>062206a4dbe31300111158b3ca9619f1</sys_id>
+            <sys_created_on>2018-07-23 21:01:24</sys_created_on>
+            <sys_id>6fa4cae4dbe31300111158b3ca9619de</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Statistics" display_value="Statistics" name="x_58872_needit_needit" sys_domain="global" view="Default view">0e2206a4dbe31300111158b3ca9619c9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-23 20:50:23</sys_updated_on>
+            <sys_updated_on>2018-07-23 21:01:24</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>opened_by</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-23 20:50:23</sys_created_on>
-            <sys_id>862206a4dbe31300111158b3ca9619f1</sys_id>
+            <sys_created_on>2018-07-23 21:01:24</sys_created_on>
+            <sys_id>efa4cae4dbe31300111158b3ca9619de</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Statistics" display_value="Statistics" name="x_58872_needit_needit" sys_domain="global" view="Default view">0e2206a4dbe31300111158b3ca9619c9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-23 20:50:23</sys_updated_on>
+            <sys_updated_on>2018-07-23 21:01:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_updated_by</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-23 20:50:23</sys_created_on>
-            <sys_id>0a2206a4dbe31300111158b3ca9619f1</sys_id>
+            <sys_created_on>2018-07-23 21:01:24</sys_created_on>
+            <sys_id>63a4cae4dbe31300111158b3ca9619df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Statistics" display_value="Statistics" name="x_58872_needit_needit" sys_domain="global" view="Default view">0e2206a4dbe31300111158b3ca9619c9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-23 20:50:23</sys_updated_on>
+            <sys_updated_on>2018-07-23 21:01:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_created_by</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-23 20:50:23</sys_created_on>
-            <sys_id>8a2206a4dbe31300111158b3ca9619f1</sys_id>
+            <sys_created_on>2018-07-23 21:01:24</sys_created_on>
+            <sys_id>e3a4cae4dbe31300111158b3ca9619df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Statistics" display_value="Statistics" name="x_58872_needit_needit" sys_domain="global" view="Default view">0e2206a4dbe31300111158b3ca9619c9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-23 20:50:23</sys_updated_on>
+            <sys_updated_on>2018-07-23 21:01:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>active</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-23 20:50:23</sys_created_on>
-            <sys_id>0e2206a4dbe31300111158b3ca9619f1</sys_id>
+            <sys_created_on>2018-07-23 21:01:24</sys_created_on>
+            <sys_id>67a4cae4dbe31300111158b3ca9619df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Statistics" display_value="Statistics" name="x_58872_needit_needit" sys_domain="global" view="Default view">0e2206a4dbe31300111158b3ca9619c9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-23 20:50:23</sys_updated_on>
+            <sys_updated_on>2018-07-23 21:01:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
